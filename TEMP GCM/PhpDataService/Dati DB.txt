@@ -1,0 +1,25 @@
+Dati Aruba
+
+Login: 1087553@aruba.it
+Password: design4soluti
+
+http host: 62.149.131.193
+
+Ftp: ftp.antonioegiusy.com
+Login: 1087553@aruba.it
+Password: design4soluti
+
+MySql
+Per accedere tramite script vanno impostati i seguenti parametri:
+
+host : 62.149.150.86
+username : Sql324536
+password : 471379c7 (composta da otto caratteri)
+nomedatabase : uno dei 5 già creati di default (Sql324536_1 , Sql324536_2 , Sql324536_3 , Sql324536_4 , Sql324536_5)
+
+
+Per accedere al pannello di controllo da dove potrà accedere e gestire i suoi database:
+
+http://mysql.aruba.it
+Nome Utente: Sql324536
+Password: 471379c7
